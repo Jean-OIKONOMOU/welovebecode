@@ -1,0 +1,17 @@
+image.onclick = () => {
+   if (image.src === image3) {
+       image.src = image2;
+   } else {
+       image.src= image3;
+       }
+    }
+
+image.onclick = () => {
+   if (image.src === a) {
+       image.src = b;
+       text.innerHTML = ' sad.';
+   } else if {
+       image.src = a;
+       text.innerHTML = ' happy.';
+       }
+    }

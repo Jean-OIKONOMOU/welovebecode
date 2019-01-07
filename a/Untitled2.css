@@ -1,0 +1,15 @@
+body {
+    background-color: Gainsboro;
+    text-align: center;
+}
+
+h1 {
+   font-family: Arial, Helvetica, sans-serif;
+   color: blueviolet;
+}
+
+#mood-image {
+    height:200px;
+    width: 200px;
+    cursor: pointer;
+}
